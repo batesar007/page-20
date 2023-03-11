@@ -116,6 +116,9 @@
 .w_212{
     width: 212px;
 }
+.w_1120{
+    width: 1120px !important;
+}
 .read_line{
     text-decoration-line: underline  !important;
 }
